@@ -1,24 +1,52 @@
-# Creative Vision Forge
+# MS Booking
 
-clone from this https://github.com/samirsaid3560-hash/creative-vision-forge.git to start with this app
+A modern booking application built with React, TypeScript, and TanStack.
 
-This project was built with [Lovable](https://lovable.dev).
+## ✨ Focus
 
-## Build with Lovable
+- **Fast & Responsive**: Built with Vite and React 19
+- **Type Safe**: Full TypeScript support
+- **Beautiful UI**: Tailwind CSS + Radix UI components
+- **Efficient State**: TanStack Query for data management
+- **Smooth Routing**: TanStack Router for navigation
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e1235219-c0dd-4055-8ff7-97bf6a6790f2).
+## 🚀 Quick Start
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+```bash
+# Clone the repository
+git clone https://github.com/Mostafa-SAID7/MS-Booking.git
+cd MS-Booking
 
-## Development
+# Install dependencies
+npm install
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+# Start development server
 npm run dev
+
+# Build for production
+npm run build
 ```
+
+## 📦 Tech Stack
+
+- **React 19** - UI framework
+- **TypeScript** - Type safety
+- **Vite** - Lightning-fast build tool
+- **TanStack Start** - Full-stack framework
+- **Tailwind CSS** - Utility-first styling
+- **Radix UI** - Accessible components
+- **TanStack Query** - Data fetching & caching
+
+## 📋 Available Commands
+
+```bash
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run preview      # Preview production build
+npm run lint         # Run ESLint
+npm run format       # Format code with Prettier
+```
+
+## 📄 License
+
+MIT
